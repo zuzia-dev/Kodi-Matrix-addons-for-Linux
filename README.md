@@ -14,6 +14,14 @@ InputStream client for adaptive streams.
 IPTV Live TV and Radio PVR client addon.
  - Source: https://github.com/kodi-pvr/pvr.iptvsimple/tree/Matrix
 
+### PVR-Addon for Waipu
+Waipu.tv PVR client for Kodi.
+ - Source: https://github.com/flubshi/pvr.waipu/tree/Matrix
+
+### PVR-Addon for Zattoo
+Zattoo PVR client for Kodi.
+ - Source: https://github.com/rbuehlma/pvr.zattoo
+
 ### InputStream RTMP
 - Source: https://github.com/xbmc/inputstream.rtmp/tree/Matrix
 
