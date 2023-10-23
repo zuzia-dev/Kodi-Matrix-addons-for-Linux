@@ -1,5 +1,5 @@
 # Kodi Matrix addons for Linux
-[![Generic badge](https://img.shields.io/badge/Platform-Kodi.tv-<COLOR>.svg)](https://kodi.tv/) [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+[![Generic badge](https://img.shields.io/badge/Platform-KODI-<COLOR>.svg)](https://kodi.tv/) [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 
 Addons for Kodi "Matrix" for Linux distributions based on Debian and Ubuntu. For development purpose only.
 
@@ -32,7 +32,7 @@ Zattoo PVR client for Kodi.
 - Source: https://github.com/xbmc/peripheral.joystick/tree/Matrix
 
 ### Other Features
-- Compiled with gcc version 10.2.1-6 and enable Debug flag (Kodi should also be built as Debug).
+- Compiled with gcc version 10.2.1 (Debian 10.2.1-6) and enable Debug flag (Kodi should also be built as Debug).
 
 ### License
 GPLv2 licensed.
